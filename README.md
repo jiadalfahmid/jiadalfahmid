@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jiadalfahmid.jiadalfahmid" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jiadalfahmid.jiadalfahmid" /><br>
+<img align="right" src="https://wakatime.com/badge/user/0b5687ba-cef6-4ca5-80bc-bf1e1cb0bc0f.svg" alt="Total time coded since Jul 8 2024" />
 
 ![Masterhead](https://github.com/jiadalfahmid/jiadalfahmid/assets/147273546/70809ad6-7dae-4f0d-bf6a-133a95a9d19e)
 <br> <br>
@@ -26,7 +27,7 @@
   <a href="mailto:jiadalfahmid@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/jiada.fahmid" target="_blank">
+  <a href="https://linkedin.com/in/jiadafahmid" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/jiadalfahmid" target="_blank">
