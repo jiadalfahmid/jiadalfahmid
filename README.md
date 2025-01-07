@@ -30,7 +30,7 @@
   <a href="https://linkedin.com/in/jiadafahmid" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/jiadalfahmid" target="_blank">
+  <a href="https://jiadalfahmid.web.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-cc33ff?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
@@ -39,15 +39,15 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,github,git,vscode,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,bootstrap,nodejs,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,github,git,vscode,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,nodejs,vite,mongodb,firebase,netlify,npm,express" /><br>
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>📊 My Contributions 📊</h2>
   <br>
   <picture>
   <source
